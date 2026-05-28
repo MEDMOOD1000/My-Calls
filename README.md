@@ -57,9 +57,8 @@ Custom-built themes:
 
 Optimized for:
 - iPad
+- iphone
 - Android
-- WebView
-- Mobile browsers
 
 Minimal. Fast. Clean.
 
