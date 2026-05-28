@@ -1,4 +1,4 @@
-# 🩺 My Calls / كولاتي
+# 🩺 My Calls > Android version coming soon! stay tuned
 
 > Built for doctors who live between chaos, calls, rounds, notes, and survival.
 
